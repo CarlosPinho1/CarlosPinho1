@@ -1,8 +1,9 @@
-👨‍💻 Analista de Dados e Desenvolvedor Fullstack | Python | SQL | Power BI | ETL | Big Data | Docker | Git | AWS | Node.js
-Sobre Mim
+#👨‍💻 Analista de Dados e Desenvolvedor Fullstack | Python | SQL | Power BI | ETL | Big Data | Docker | Git | AWS | Node.js
+
+##Sobre Mim
 Sou analista de dados e desenvolvedor fullstack com uma paixão por transformar dados em insights valiosos e criar aplicações web dinâmicas e escaláveis. Utilizo ferramentas e tecnologias como Python, SQL, Power BI, ETL, Big Data, Docker, Git, AWS e Node.js para coletar, analisar e visualizar dados, bem como desenvolver sistemas robustos e eficientes. Sempre busco garantir que as análises e aplicações sejam precisas, relevantes e apresentadas de forma clara e compreensível.
 
-Habilidades
+###Habilidades
 🖥 Linguagens de Programação
 Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS, SQL
 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
