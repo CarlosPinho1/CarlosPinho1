@@ -6,9 +6,9 @@ Sou analista de dados e desenvolvedor fullstack com uma paixão por transformar 
 ## Habilidades
 
 ### 🖥 Linguagens de Programação
+ - *Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS, SQL
 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 SQL: MySQL, PostgreSQL, SQLite
-JavaScript/TypeScript: Node.js, Express.jse
 
 ### 📊 Ferramentas de Visualização
 - *Power BI*: Dashboards, Relatórios Interativos
