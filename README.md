@@ -1,36 +1,35 @@
-#👨‍💻 Analista de Dados e Desenvolvedor Fullstack | Python | SQL | Power BI | ETL | Big Data | Docker | Git | AWS | Node.js
+# 👨‍💻 Analista de Dados | Python | SQL | Power BI | ETL | Big Data | Docker | Git | AWS
 
-##Sobre Mim
+## Sobre Mim
 Sou analista de dados e desenvolvedor fullstack com uma paixão por transformar dados em insights valiosos e criar aplicações web dinâmicas e escaláveis. Utilizo ferramentas e tecnologias como Python, SQL, Power BI, ETL, Big Data, Docker, Git, AWS e Node.js para coletar, analisar e visualizar dados, bem como desenvolver sistemas robustos e eficientes. Sempre busco garantir que as análises e aplicações sejam precisas, relevantes e apresentadas de forma clara e compreensível.
 
-###Habilidades
-🖥 Linguagens de Programação
-Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS, SQL
+## Habilidades
+
+### 🖥 Linguagens de Programação
 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 SQL: MySQL, PostgreSQL, SQLite
+JavaScript/TypeScript: Node.js, Express.jse
 
-📊 Ferramentas de Visualização
-Power BI: Dashboards, Relatórios Interativos
-🛠 Ferramentas e Tecnologias
+### 📊 Ferramentas de Visualização
+- *Power BI*: Dashboards, Relatórios Interativos
+
+### 🛠 Ferramentas e Tecnologias
 ETL: Apache Airflow, Talend
 Big Data: Hadoop, Spark
 Versionamento: Git, GitHub, GitLab
+Deploy e DevOps: Docker, Kubernetes, AWS Lambda
 
 
-🔧 Experiência em Backend
-Node.js: Desenvolvimento de aplicações backend escaláveis, APIs RESTful com Express.js, manipulação de pacotes npm.
-Bancos de Dados: Experiência com PostgreSQL para bancos de dados relacionais e MongoDB para bancos de dados não relacionais.
-Autenticação e Autorização: Implementação de sistemas de autenticação e autorização seguros.
-Versionamento de Código: Uso de Git para controle de versão e colaboração em equipe.
-Testes Automatizados: Criação e manutenção de testes automatizados com Jest e Mocha.
-Educação
+## Educação
+### 🎓 Faculdade das Américas (FAM) | Análise e Desenvolvimento de Sistemas
+*01/2023 - 12/2025*
 
-🎓 Faculdade Anhanguera| Egenharia de software 
-01/2024- 06/2027
+*Resumo do Curso*: Durante o curso, adquiro conhecimentos sólidos em programação, análise de dados, e gestão de projetos de software. Aprendo a utilizar diversas linguagens de programação, como Python, JavaScript e C, e tecnologias de banco de dados como SQL. Também estudo metodologias ágeis, engenharia de software, arquitetura de sistemas, e segurança da informação.
 
-Resumo do Curso: Durante o curso, adquiro conhecimentos sólidos em programação, análise de dados e gestão de projetos de software. Aprendo a utilizar diversas linguagens de programação, como Python, JavaScript e C, e tecnologias de banco de dados como SQL. Também estudo metodologias ágeis, engenharia de software, arquitetura de sistemas e segurança da informação.
+*Atividades e Grupos*: Participação em clubes de programação, grupos de estudo focados em análise de dados e desenvolvimento web e mobile, e projetos extracurriculares que envolvem a criação de aplicativos e sistemas empresariais.
 
-Atividades e Grupos: Participação em clubes de programação, grupos de estudo focados em análise de dados e desenvolvimento web e mobile, e projetos extracurriculares que envolvem a criação de aplicativos e sistemas empresariais.
+## Contato
+- *LinkedIn*: [Perfil do LinkedIn](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
+- *Email*: [📧](rafael.angeles.toledano@gmail.com)
 
-Contato
-LinkedIn: Perfil do LinkedIn
+Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Se você está procurando um analista de dados dedicado e competente, adoraria conversar!
