@@ -1,7 +1,7 @@
 # 👨‍💻 Full Stack Developer | Node.Js | Typescript | ReactJS | Javascrpit | MongoDB
 
 ## About me
-Fullstack developer with strong backend expertise in Node.js, focusing on building scalable applications with Express.js, PostgreSQL, and MongoDB. Fluent in English, which aids in communication with international teams. Currently transitioning into a software development career, having recently completed a Fullstack Developer certification in TypeScript. Core skills include secure authentication, Git version control, automated testing, and DevOps practices, all aimed at contributing to efficient and innovative technological solutions.
+Fullstack developer with backend konowledge in Node.js, focusing on building scalable applications with Express.js, PostgreSQL, and MongoDB. Fluent in English, which aids in communication with international teams. Currently transitioning into a software development career, having recently completed a Fullstack Developer certification in TypeScript. Core skills include secure authentication, Git version control, automated testing, and DevOps practices, all aimed at contributing to efficient and innovative technological solutions.
 
 ## Skills
 Node.js, TypeScript, ReactJS, JavaScript, MongoDB, PostgreSQL, Git, Jest, DevOps.
