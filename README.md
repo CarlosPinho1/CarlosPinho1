@@ -6,13 +6,13 @@ Fullstack developer with strong backend expertise in Node.js, focusing on buildi
 ## Skills
 Node.js, TypeScript, ReactJS, JavaScript, MongoDB, PostgreSQL, Git, Jest, DevOps.
 
-### 🖥 Linguagens de Programação
+### 🖥 My Stack
  - *Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS,
 SQL: MySQL, PostgreSQL, SQLite
 
 
-### 🛠 Ferramentas e Tecnologias
-Versionamento: Git, GitHub, GitLab
+### 🛠 Tools and Technologies
+Version Control: Git, GitHub, GitLab
 Deploy e DevOps: Docker, Kubernetes, AWS Lambda
 
 
