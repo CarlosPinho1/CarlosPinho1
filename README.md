@@ -13,7 +13,7 @@ SQL: MySQL, PostgreSQL, SQLite
 
 ### 🛠 Tools and Technologies
 Version Control: Git, GitHub, GitLab
-Deploy e DevOps: Docker, Kubernetes, AWS Lambda
+Deploy e DevOps:  AWS Lambda
 
 
 ## Education
