@@ -1,35 +1,31 @@
-# 👨‍💻 Analista de Dados | Python | SQL | Power BI | ETL | Big Data | Docker | Git | AWS
+# 👨‍💻 Full Stack Developer | Node.Js | Typescript | ReactJS | Javascrpit | MongoDB
 
-## Sobre Mim
-Sou analista de dados e desenvolvedor fullstack com uma paixão por transformar dados em insights valiosos e criar aplicações web dinâmicas e escaláveis. Utilizo ferramentas e tecnologias como Python, SQL, Power BI, ETL, Big Data, Docker, Git, AWS e Node.js para coletar, analisar e visualizar dados, bem como desenvolver sistemas robustos e eficientes. Sempre busco garantir que as análises e aplicações sejam precisas, relevantes e apresentadas de forma clara e compreensível.
+## About me
+Fullstack developer with strong backend expertise in Node.js, focusing on building scalable applications with Express.js, PostgreSQL, and MongoDB. Fluent in English, which aids in communication with international teams. Currently transitioning into a software development career, having recently completed a Fullstack Developer certification in TypeScript. Core skills include secure authentication, Git version control, automated testing, and DevOps practices, all aimed at contributing to efficient and innovative technological solutions.
 
-## Habilidades
+## Skills
+Node.js, TypeScript, ReactJS, JavaScript, MongoDB, PostgreSQL, Git, Jest, DevOps.
 
 ### 🖥 Linguagens de Programação
- - *Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS, SQL
-Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ - *Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS,
 SQL: MySQL, PostgreSQL, SQLite
 
-### 📊 Ferramentas de Visualização
-- *Power BI*: Dashboards, Relatórios Interativos
 
 ### 🛠 Ferramentas e Tecnologias
-ETL: Apache Airflow, Talend
-Big Data: Hadoop, Spark
 Versionamento: Git, GitHub, GitLab
 Deploy e DevOps: Docker, Kubernetes, AWS Lambda
 
 
-## Educação
-### 🎓 Faculdade das Américas (FAM) | Análise e Desenvolvimento de Sistemas
-*01/2023 - 12/2025*
+## Education
+### 🎓 Faculdade Anhanguera | Software Engineering
+*02/2024 - 06/2027*
 
-*Resumo do Curso*: Durante o curso, adquiro conhecimentos sólidos em programação, análise de dados, e gestão de projetos de software. Aprendo a utilizar diversas linguagens de programação, como Python, JavaScript e C, e tecnologias de banco de dados como SQL. Também estudo metodologias ágeis, engenharia de software, arquitetura de sistemas, e segurança da informação.
+*Course Summary*: During the course, I acquired solid knowledge in programming, data analysis, and software project management. I learned to use various programming languages such as Python, JavaScript, and C, as well as database technologies like SQL. Additionally, I studied agile methodologies, software engineering, system architecture, and information security.
 
-*Atividades e Grupos*: Participação em clubes de programação, grupos de estudo focados em análise de dados e desenvolvimento web e mobile, e projetos extracurriculares que envolvem a criação de aplicativos e sistemas empresariais.
+*Activities and Groups*: Participation in programming clubs, study groups focused on data analysis and web and mobile development, and extracurricular projects involving the creation of applications and enterprise systems.
 
-## Contato
-- *LinkedIn*: [Perfil do LinkedIn](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
-- *Email*: [📧](rafael.angeles.toledano@gmail.com)
+## Contact me
+- *LinkedIn*: [Linkedin Profile][(https://www.linkedin.com/in/carlos-oliveira-pinho/)]
+- *Email*: [📧](carlosopinho01@outlook.com)
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Se você está procurando um analista de dados dedicado e competente, adoraria conversar!
+I am always seeking new challenges and opportunities to apply and expand my skills. If you're looking for a dedicated and skilled Fullstack Developer, I would love to have a conversation!
