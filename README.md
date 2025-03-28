@@ -1,14 +1,14 @@
 # 👨‍💻 Full Stack Developer | Node.Js | Typescript | ReactJS | Javascrpit | MongoDB
 
 ## About me
-I'm a Developer with backend konowledge in Node.js, focusing on building scalable applications with Express.js, PostgreSQL, and MongoDB. Fluent in English, which aids in communication with international teams. Currently transitioning into a software development career, having recently completed a Fullstack Developer certification in TypeScript. Core skills include secure authentication, Git version control, automated testing, and DevOps practices, all aimed at contributing to efficient and innovative technological solutions.
+I am a developer , proficient in English, enabling collaboration on global projects. I specialize in backend development with Node.js, TypeScript, Express.js, PostgreSQL, and MongoDB, as well as frontend development using React.js and Next.js. I have experience with Docker for deployment, authentication security, and automated testing with Jest and Mocha. Additionally, I use Git for version control and continuously seek process improvements. My focus is on delivering modern, scalable, and high-quality web solutions.
 
 ## Skills
 Node.js, TypeScript, ReactJS, JavaScript, MongoDB, PostgreSQL, Git, Jest, DevOps.
 
 ### 🖥 My Stack
- - *Full Stack Developer: Node.js, TypeScript, JavaScript, MongoDB, ReactJS,
-SQL: MySQL, PostgreSQL, SQLite
+ - *Full Stack Developer: Node.js, TypeScript, JavaScript, NextJs, ReactJS,
+SQL: MySQL, PostgreSQL, SQLite, Docker
 
 
 ### 🛠 Tools and Technologies
@@ -17,7 +17,7 @@ Deploy e DevOps:  AWS Lambda
 
 
 ## Education
-### 🎓 Faculdade Anhanguera | Software Engineering
+### 🎓 Universidade Estácio| Software Engineering
 *02/2024 - 06/2027*
 
 *Course Summary*: During the course, I acquired solid knowledge in programming, data analysis, and software project management. I learned to use various programming languages such as Python, JavaScript, and C, as well as database technologies like SQL. Additionally, I studied agile methodologies, software engineering, system architecture, and information security.
